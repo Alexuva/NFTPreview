@@ -8,3 +8,6 @@ Se debe realizar un diseño lo más parecido al mostrado a continuación con las
 
 
 ![active-states](https://user-images.githubusercontent.com/16647012/157735917-fff96149-b285-4cf2-ba97-94101014fad4.jpg)
+
+## Solución
+https://nftp-review-dfw5qwa0h-alexuva.vercel.app/
